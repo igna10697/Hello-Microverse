@@ -47,8 +47,6 @@ Hello Microverse is a project on setting up linters. There is no complex codding
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[There are no key features in this project]**
 
 
