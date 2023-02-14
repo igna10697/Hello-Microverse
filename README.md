@@ -24,23 +24,24 @@
 - [📝 License](#license)
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
-Hello Microverse is a project on setting up linters
+Hello Microverse is a project on setting up linters. There is no complex codding in this project and its goal was to master all tools and best pratices to be using in mcroverse projects.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Visual studio code</summary>
+  <summary>Programing Languages</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul> 
 </details>
-
 <details>
-  <summary>Linters</summary>
+  <summary>Front End Tools</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li>Git</li>
+    <li>Visual Studio Code</li>
   </ul>
 </details>
 
@@ -48,7 +49,7 @@ Hello Microverse is a project on setting up linters
 
 > Describe between 1-3 key features of the application.
 
-- **[html-css-branch]**
+- **[There are no key features in this project]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -61,79 +62,36 @@ Hello Microverse is a project on setting up linters
 
 ## 💻 Getting Started <a name="getting-started"></a>
 ### Prerequisites
+Step 1: Set up a GitHub account
+Step 2: Create a GitHub repository
+Step 3: Upload a sample application to your GitHub repository
+Step 4: Provision an instance
+Step 5: Create an application and deployment group
+Step 6: Deploy the application to the instance
+Step 7: Monitor and verify the deployment
+Step 8: Clean up
 
-In order to run this project you need:
-chrome browser.
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
+This project can just be run from the browser.
 ### Setup
 
 Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+git clone git@github.com:igna10697/Hello-Microverse.git
 
 ### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+You do not need to install this project, just run it from the browser
 
 ### Usage
 
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh<!-- LICENSE -->
-  rails server
-```
---->
+To run the project, just open the index.html file using google chrome.
 
 ### Run tests
 
-To run tests, run the following command:
+There is no tests to run for this project.
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+You can deploy this project using Github.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,9 +109,10 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Database]**
-- [ ] **[client]**
-- [ ] **[server]**
+- [ ] **[Responsive website pages]**
+- [ ] **[Easy Navigation]**
+- [ ] **[Qaulity pages]**
+- [ ] **[Strong and visible call to action]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
